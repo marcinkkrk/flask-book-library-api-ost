@@ -1,0 +1,6 @@
+.env
+Book_Library_REST_API.zip
+.idea/
+.pytest_cache/
+__pycache__/
+venv/
